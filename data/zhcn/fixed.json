@@ -1,0 +1,1306 @@
+{
+	"sides": {
+		"1": "联盟",
+		"2": "部落"
+	},
+	"races": {
+		"1": {
+			"name": "人类",
+			"icon": "race_human_female"
+		},
+		"2": {
+			"name": "兽人",
+			"icon": "race_orc_female"
+		},
+		"3": {
+			"name": "矮人",
+			"icon": "race_dwarf_female"
+		},
+		"4": {
+			"name": "暗夜精灵",
+			"icon": "race_nightelf_female"
+		},
+		"5": {
+			"name": "亡灵",
+			"icon": "race_scourge_female"
+		},
+		"6": {
+			"name": "牛头人",
+			"icon": "race_tauren_female"
+		},
+		"7": {
+			"name": "侏儒",
+			"icon": "race_gnome_female"
+		},
+		"8": {
+			"name": "巨魔",
+			"icon": "race_troll_female"
+		}
+	},
+	"classes": {
+		"1": {
+			"name": "战士",
+			"icon": "class_warrior"
+		},
+		"2": {
+			"name": "圣骑士",
+			"icon": "class_paladin"
+		},
+		"3": {
+			"name": "猎人",
+			"icon": "class_hunter"
+		},
+		"4": {
+			"name": "潜行者",
+			"icon": "class_rogue"
+		},
+		"5": {
+			"name": "牧师",
+			"icon": "class_priest"
+		},
+		"7": {
+			"name": "萨满祭司",
+			"icon": "class_shaman"
+		},
+		"8": {
+			"name": "法师",
+			"icon": "class_mage"
+		},
+		"9": {
+			"name": "术士",
+			"icon": "class_warlock"
+		},
+		"11": {
+			"name": "德鲁伊",
+			"icon": "class_druid"
+		}
+	},
+	"classCanEquipItemTypes": {
+		"1": [
+			"1.0",
+			"1.2",
+			"1.3",
+			"2.0",
+			"2.1",
+			"2.2",
+			"2.3",
+			"2.4",
+			"2.5",
+			"2.6",
+			"2.7",
+			"2.8",
+			"2.10",
+			"2.13",
+			"2.15",
+			"2.16",
+			"2.18",
+			"2.20",
+			"4.-8",
+			"4.-7",
+			"4.-6",
+			"4.-4",
+			"4.-3",
+			"4.-2",
+			"4.0",
+			"4.1",
+			"4.2",
+			"4.3",
+			"4.4",
+			"4.6"
+		],
+		"2": [
+			"1.0",
+			"1.2",
+			"1.3",
+			"2.0",
+			"2.1",
+			"2.4",
+			"2.5",
+			"2.6",
+			"2.7",
+			"2.8",
+			"2.20",
+			"4.-8",
+			"4.-7",
+			"4.-6",
+			"4.-5",
+			"4.-4",
+			"4.-3",
+			"4.-2",
+			"4.0",
+			"4.1",
+			"4.2",
+			"4.3",
+			"4.4",
+			"4.6",
+			"4.7"
+		],
+		"3": [
+			"1.0",
+			"1.2",
+			"1.3",
+			"2.0",
+			"2.1",
+			"2.2",
+			"2.3",
+			"2.6",
+			"2.7",
+			"2.8",
+			"2.10",
+			"2.13",
+			"2.15",
+			"2.16",
+			"2.18",
+			"2.20",
+			"4.-8",
+			"4.-7",
+			"4.-6",
+			"4.-4",
+			"4.-3",
+			"4.-2",
+			"4.0",
+			"4.1",
+			"4.2",
+			"4.3",
+			"6.2",
+			"6.3",
+			"11.2",
+			"11.3"
+		],
+		"4": [
+			"1.0",
+			"1.2",
+			"1.3",
+			"2.2",
+			"2.3",
+			"2.4",
+			"2.7",
+			"2.13",
+			"2.15",
+			"2.16",
+			"2.18",
+			"2.20",
+			"4.-8",
+			"4.-7",
+			"4.-6",
+			"4.-4",
+			"4.-3",
+			"4.-2",
+			"4.0",
+			"4.1",
+			"4.2"
+		],
+		"5": [
+			"1.0",
+			"1.2",
+			"1.3",
+			"2.4",
+			"2.10",
+			"2.15",
+			"2.19",
+			"2.20",
+			"4.-8",
+			"4.-7",
+			"4.-6",
+			"4.-5",
+			"4.-4",
+			"4.-3",
+			"4.-2",
+			"4.0",
+			"4.1"
+		],
+		"7": [
+			"1.0",
+			"1.2",
+			"1.3",
+			"2.0",
+			"2.1",
+			"2.4",
+			"2.5",
+			"2.10",
+			"2.20",
+			"4.-8",
+			"4.-7",
+			"4.-6",
+			"4.-4",
+			"4.-3",
+			"4.-2",
+			"4.0",
+			"4.1",
+			"4.2",
+			"4.3",
+			"4.6",
+			"4.9"
+		],
+		"8": [
+			"1.0",
+			"1.2",
+			"1.3",
+			"2.7",
+			"2.10",
+			"2.15",
+			"2.19",
+			"2.20",
+			"4.-8",
+			"4.-7",
+			"4.-6",
+			"4.-5",
+			"4.-4",
+			"4.-3",
+			"4.-2",
+			"4.0",
+			"4.1"
+		],
+		"9": [
+			"1.0",
+			"1.1",
+			"1.2",
+			"1.3",
+			"2.7",
+			"2.10",
+			"2.15",
+			"2.19",
+			"2.20",
+			"4.-8",
+			"4.-7",
+			"4.-6",
+			"4.-5",
+			"4.-4",
+			"4.-3",
+			"4.-2",
+			"4.0",
+			"4.1"
+		],
+		"11": [
+			"1.0",
+			"1.2",
+			"1.3",
+			"2.4",
+			"2.5",
+			"2.6",
+			"2.10",
+			"2.13",
+			"2.15",
+			"2.20",
+			"4.-8",
+			"4.-7",
+			"4.-6",
+			"4.-5",
+			"4.-4",
+			"4.-3",
+			"4.-2",
+			"4.0",
+			"4.1",
+			"4.2",
+			"4.8"
+		]
+	},
+	"classesUpgradeArmorTypeAfterLevel40": [
+		1,
+		2,
+		3,
+		7
+	],
+	"classTalents": {
+		"1": [
+			{
+				"id": 26,
+				"name": "武器",
+				"icon": "ability_rogue_ambush"
+			},
+			{
+				"id": 256,
+				"name": "狂怒",
+				"icon": "ability_warrior_cleave"
+			},
+			{
+				"id": 257,
+				"name": "防护",
+				"icon": "ability_warrior_defensivestance"
+			}
+		],
+		"2": [
+			{
+				"id": 594,
+				"name": "神圣",
+				"icon": "spell_holy_layonhands"
+			},
+			{
+				"id": 267,
+				"name": "防护",
+				"icon": "spell_holy_devotionaura"
+			},
+			{
+				"id": 184,
+				"name": "惩戒",
+				"icon": "spell_holy_vindication"
+			}
+		],
+		"3": [
+			{
+				"id": 50,
+				"name": "野兽控制",
+				"icon": "ability_hunter_mendpet"
+			},
+			{
+				"id": 163,
+				"name": "射击",
+				"icon": "ability_whirlwind"
+			},
+			{
+				"id": 51,
+				"name": "生存技能",
+				"icon": "ability_rogue_feint"
+			}
+		],
+		"4": [
+			{
+				"id": 253,
+				"name": "刺杀",
+				"icon": "ability_rogue_kidneyshot"
+			},
+			{
+				"id": 38,
+				"name": "战斗",
+				"icon": "ability_backstab"
+			},
+			{
+				"id": 39,
+				"name": "敏锐",
+				"icon": "inv_misc_bag_11"
+			}
+		],
+		"5": [
+			{
+				"id": 613,
+				"name": "戒律",
+				"icon": "spell_holy_powerwordshield"
+			},
+			{
+				"id": 56,
+				"name": "神圣",
+				"icon": "spell_holy_renew"
+			},
+			{
+				"id": 78,
+				"name": "暗影魔法",
+				"icon": "spell_holy_mindsooth"
+			}
+		],
+		"7": [
+			{
+				"id": 375,
+				"name": "元素战斗",
+				"icon": "spell_nature_purge"
+			},
+			{
+				"id": 373,
+				"name": "增强",
+				"icon": "spell_shadow_demonbreath"
+			},
+			{
+				"id": 374,
+				"name": "恢复",
+				"icon": "spell_nature_magicimmunity"
+			}
+		],
+		"8": [
+			{
+				"id": 237,
+				"name": "奥术",
+				"icon": "spell_nature_polymorph"
+			},
+			{
+				"id": 8,
+				"name": "火焰",
+				"icon": "spell_fire_flamebolt"
+			},
+			{
+				"id": 6,
+				"name": "冰霜",
+				"icon": "spell_frost_icestorm"
+			}
+		],
+		"9": [
+			{
+				"id": 355,
+				"name": "痛苦",
+				"icon": "spell_shadow_abominationexplosion"
+			},
+			{
+				"id": 354,
+				"name": "恶魔学识",
+				"icon": "spell_shadow_evileye"
+			},
+			{
+				"id": 593,
+				"name": "毁灭",
+				"icon": "spell_fire_immolation"
+			}
+		],
+		"11": [
+			{
+				"id": 574,
+				"name": "平衡",
+				"icon": "spell_nature_stranglevines"
+			},
+			{
+				"id": 134,
+				"name": "野性战斗",
+				"icon": "classic_ability_druid_demoralizingroar"
+			},
+			{
+				"id": 573,
+				"name": "恢复",
+				"icon": "spell_nature_tranquility"
+			}
+		]
+	},
+	"itemTypes": {
+		"0": "消耗品",
+		"1": "容器",
+		"2": "武器",
+		"4": "护甲",
+		"6": "弹药",
+		"7": "贸易品",
+		"9": "配方",
+		"10": "货币",
+		"11": "弹药袋",
+		"12": "任务",
+		"13": "钥匙",
+		"15": "杂项",
+		"0.-3": "物品强化（临时）",
+		"0.0": "消耗品",
+		"0.1": "药水",
+		"0.2": "药剂",
+		"0.3": "合剂",
+		"0.4": "卷轴",
+		"0.5": "食物和饮料",
+		"0.6": "物品强化（永久）",
+		"0.7": "绷带",
+		"0.8": "其他",
+		"1.0": "背包",
+		"1.1": "灵魂袋",
+		"1.2": "草药包",
+		"1.3": "附魔材料包",
+		"1.4": "工程学材料包",
+		"1.5": "宝石袋",
+		"1.6": "矿石袋",
+		"1.7": "制皮材料包",
+		"1.8": "铭文包",
+		"1.9": "工程包",
+		"1.10": "烹饪包",
+		"2.0": "单手斧",
+		"2.1": "双手斧",
+		"2.2": "弓",
+		"2.3": "枪",
+		"2.4": "单手锤",
+		"2.5": "双手锤",
+		"2.6": "长柄武器",
+		"2.7": "单手剑",
+		"2.8": "双手剑",
+		"2.10": "法杖",
+		"2.13": "拳套",
+		"2.14": "杂项",
+		"2.15": "匕首",
+		"2.16": "投掷",
+		"2.18": "弩",
+		"2.19": "魔杖",
+		"2.20": "钓鱼竿",
+		"4.-8": "衬衣",
+		"4.-7": "战袍",
+		"4.-6": "披风",
+		"4.-5": "副手",
+		"4.-4": "饰品",
+		"4.-3": "项链",
+		"4.-2": "戒指",
+		"4.0": "杂项",
+		"4.1": "布甲",
+		"4.2": "皮甲",
+		"4.3": "锁甲",
+		"4.4": "板甲",
+		"4.6": "盾牌",
+		"4.7": "圣契",
+		"4.8": "神像",
+		"4.9": "图腾",
+		"6.2": "箭",
+		"6.3": "子弹",
+		"7.1": "零件",
+		"7.2": "爆炸物",
+		"7.3": "装置",
+		"7.5": "布甲",
+		"7.6": "皮甲",
+		"7.7": "金属和矿石",
+		"7.8": "肉类",
+		"7.9": "草药",
+		"7.10": "元素",
+		"7.11": "其他",
+		"7.12": "附魔",
+		"7.13": "原料",
+		"7.14": "护甲附魔",
+		"7.15": "武器附魔",
+		"9.0": "书籍",
+		"9.1": "制皮",
+		"9.2": "裁缝",
+		"9.3": "工程学",
+		"9.4": "锻造",
+		"9.5": "烹饪",
+		"9.6": "炼金术",
+		"9.8": "附魔",
+		"9.9": "钓鱼",
+		"9.12": "采矿",
+		"11.2": "箭袋",
+		"11.3": "弹药袋",
+		"15.-2": "护甲兑换",
+		"15.0": "垃圾",
+		"15.1": "施法材料",
+		"15.2": "伙伴",
+		"15.3": "节日",
+		"15.4": "其他",
+		"15.5": "坐骑",
+		"0.2.1": "战斗",
+		"0.2.2": "守护"
+	},
+	"itemSlots": {
+		"1": "头部",
+		"2": "颈部",
+		"3": "肩膀",
+		"4": "衬衫",
+		"5": "胸部",
+		"6": "腰部",
+		"7": "腿部",
+		"8": "脚",
+		"9": "手腕",
+		"10": "手",
+		"11": "手指",
+		"12": "饰品",
+		"13": "单手",
+		"14": "盾牌",
+		"15": "远程",
+		"16": "后背",
+		"17": "双手",
+		"18": "背包",
+		"19": "战袍",
+		"21": "主手",
+		"22": "副手",
+		"23": "副手",
+		"24": "弹药",
+		"25": "投掷",
+		"28": "遗迹"
+	},
+	"itemTypeSlotMap": [
+		{
+			"type": "1.0",
+			"slot": 18,
+			"icon": "inv_misc_bag_13"
+		},
+		{
+			"type": "1.1",
+			"slot": 18,
+			"icon": "inv_misc_bag_13"
+		},
+		{
+			"type": "1.2",
+			"slot": 18,
+			"icon": "inv_misc_bag_herbpouch"
+		},
+		{
+			"type": "1.3",
+			"slot": 18,
+			"icon": "inv_misc_bag_enchantedmageweave"
+		},
+		{
+			"type": "2.0",
+			"slot": 13,
+			"icon": "inv_axe_08"
+		},
+		{
+			"type": "2.1",
+			"slot": 17,
+			"icon": "inv_axe_10"
+		},
+		{
+			"type": "2.2",
+			"slot": 15,
+			"icon": "inv_weapon_bow_08"
+		},
+		{
+			"type": "2.3",
+			"slot": 15,
+			"icon": "inv_weapon_rifle_08"
+		},
+		{
+			"type": "2.4",
+			"slot": 13,
+			"icon": "inv_hammer_17"
+		},
+		{
+			"type": "2.5",
+			"slot": 17,
+			"icon": "inv_hammer_04"
+		},
+		{
+			"type": "2.6",
+			"slot": 17,
+			"icon": "inv_spear_08"
+		},
+		{
+			"type": "2.7",
+			"slot": 13,
+			"icon": "inv_sword_27"
+		},
+		{
+			"type": "2.8",
+			"slot": 17,
+			"icon": "inv_sword_41"
+		},
+		{
+			"type": "2.10",
+			"slot": 17,
+			"icon": "inv_staff_28"
+		},
+		{
+			"type": "2.13",
+			"slot": 13,
+			"icon": "inv_gauntlets_11"
+		},
+		{
+			"type": "2.14",
+			"slot": 0,
+			"icon": "inv_mace_11"
+		},
+		{
+			"type": "2.14",
+			"slot": 13,
+			"icon": "inv_weapon_shortblade_01"
+		},
+		{
+			"type": "2.15",
+			"slot": 13,
+			"icon": "inv_weapon_shortblade_15"
+		},
+		{
+			"type": "2.16",
+			"slot": 25,
+			"icon": "inv_throwingaxe_06"
+		},
+		{
+			"type": "2.18",
+			"slot": 15,
+			"icon": "inv_weapon_crossbow_04"
+		},
+		{
+			"type": "2.19",
+			"slot": 15,
+			"icon": "inv_wand_09"
+		},
+		{
+			"type": "2.20",
+			"slot": 17,
+			"icon": "inv_fishingpole_01"
+		},
+		{
+			"type": "4.-6",
+			"slot": 16,
+			"icon": "inv_misc_cape_18"
+		},
+		{
+			"type": "4.-5",
+			"slot": 23,
+			"icon": "inv_misc_book_06"
+		},
+		{
+			"type": "4.-4",
+			"slot": 12,
+			"icon": "inv_jewelry_necklace_19"
+		},
+		{
+			"type": "4.-3",
+			"slot": 2,
+			"icon": "inv_jewelry_necklace_26"
+		},
+		{
+			"type": "4.-2",
+			"slot": 11,
+			"icon": "inv_jewelry_ring_40"
+		},
+		{
+			"type": "4.1",
+			"slot": 1,
+			"icon": "inv_crown_01"
+		},
+		{
+			"type": "4.1",
+			"slot": 3,
+			"icon": "inv_shoulder_02"
+		},
+		{
+			"type": "4.1",
+			"slot": 5,
+			"icon": "inv_chest_leather_01"
+		},
+		{
+			"type": "4.1",
+			"slot": 6,
+			"icon": "inv_belt_13"
+		},
+		{
+			"type": "4.1",
+			"slot": 7,
+			"icon": "inv_pants_06"
+		},
+		{
+			"type": "4.1",
+			"slot": 8,
+			"icon": "inv_boots_05"
+		},
+		{
+			"type": "4.1",
+			"slot": 9,
+			"icon": "inv_bracer_07"
+		},
+		{
+			"type": "4.1",
+			"slot": 10,
+			"icon": "inv_gauntlets_17"
+		},
+		{
+			"type": "4.2",
+			"slot": 1,
+			"icon": "inv_helmet_41"
+		},
+		{
+			"type": "4.2",
+			"slot": 3,
+			"icon": "inv_shoulder_07"
+		},
+		{
+			"type": "4.2",
+			"slot": 5,
+			"icon": "inv_chest_leather_08"
+		},
+		{
+			"type": "4.2",
+			"slot": 6,
+			"icon": "inv_belt_17"
+		},
+		{
+			"type": "4.2",
+			"slot": 7,
+			"icon": "inv_pants_06"
+		},
+		{
+			"type": "4.2",
+			"slot": 8,
+			"icon": "inv_boots_08"
+		},
+		{
+			"type": "4.2",
+			"slot": 9,
+			"icon": "inv_bracer_07"
+		},
+		{
+			"type": "4.2",
+			"slot": 10,
+			"icon": "inv_gauntlets_25"
+		},
+		{
+			"type": "4.3",
+			"slot": 1,
+			"icon": "inv_helmet_24"
+		},
+		{
+			"type": "4.3",
+			"slot": 3,
+			"icon": "inv_shoulder_01"
+		},
+		{
+			"type": "4.3",
+			"slot": 5,
+			"icon": "inv_chest_chain_11"
+		},
+		{
+			"type": "4.3",
+			"slot": 6,
+			"icon": "inv_belt_20"
+		},
+		{
+			"type": "4.3",
+			"slot": 7,
+			"icon": "inv_pants_03"
+		},
+		{
+			"type": "4.3",
+			"slot": 8,
+			"icon": "inv_boots_01"
+		},
+		{
+			"type": "4.3",
+			"slot": 9,
+			"icon": "inv_bracer_16"
+		},
+		{
+			"type": "4.3",
+			"slot": 10,
+			"icon": "inv_gauntlets_11"
+		},
+		{
+			"type": "4.4",
+			"slot": 1,
+			"icon": "inv_helmet_05"
+		},
+		{
+			"type": "4.4",
+			"slot": 3,
+			"icon": "inv_shoulder_01"
+		},
+		{
+			"type": "4.4",
+			"slot": 5,
+			"icon": "inv_chest_plate03"
+		},
+		{
+			"type": "4.4",
+			"slot": 6,
+			"icon": "inv_belt_14"
+		},
+		{
+			"type": "4.4",
+			"slot": 7,
+			"icon": "inv_pants_04"
+		},
+		{
+			"type": "4.4",
+			"slot": 8,
+			"icon": "inv_boots_plate_04"
+		},
+		{
+			"type": "4.4",
+			"slot": 9,
+			"icon": "inv_bracer_18"
+		},
+		{
+			"type": "4.4",
+			"slot": 10,
+			"icon": "inv_gauntlets_29"
+		},
+		{
+			"type": "4.6",
+			"slot": 14,
+			"icon": "inv_shield_02"
+		},
+		{
+			"type": "4.7",
+			"slot": 28,
+			"icon": "inv_relics_libramofgrace"
+		},
+		{
+			"type": "4.8",
+			"slot": 28,
+			"icon": "inv_relics_idolofferocity"
+		},
+		{
+			"type": "4.9",
+			"slot": 28,
+			"icon": "inv_relics_totemoflife"
+		},
+		{
+			"type": "6.2",
+			"slot": 24,
+			"icon": "inv_ammo_arrow_02"
+		},
+		{
+			"type": "6.3",
+			"slot": 24,
+			"icon": "inv_ammo_bullet_02"
+		},
+		{
+			"type": "11.2",
+			"slot": 18,
+			"icon": "inv_misc_quiver_03"
+		},
+		{
+			"type": "11.3",
+			"slot": 18,
+			"icon": "inv_misc_ammo_bullet_01"
+		}
+	],
+	"itemTypeSlotIconOverwrites": [
+		{
+			"class": null,
+			"type": "4.1",
+			"slot": 5,
+			"icon": "inv_chest_cloth_02"
+		},
+		{
+			"class": null,
+			"type": "4.1",
+			"slot": 9,
+			"icon": "inv_bracer_13"
+		},
+		{
+			"class": null,
+			"type": "4.1",
+			"slot": 6,
+			"icon": "inv_belt_10"
+		},
+		{
+			"class": null,
+			"type": "4.1",
+			"slot": 10,
+			"icon": "inv_gauntlets_27"
+		},
+		{
+			"class": null,
+			"type": "4.1",
+			"slot": 7,
+			"icon": "inv_pants_01"
+		},
+		{
+			"class": null,
+			"type": "4.2",
+			"slot": 3,
+			"icon": "inv_shoulder_08"
+		},
+		{
+			"class": null,
+			"type": "4.3",
+			"slot": 1,
+			"icon": "inv_helmet_39"
+		},
+		{
+			"class": null,
+			"type": "4.3",
+			"slot": 3,
+			"icon": "inv_shoulder_15"
+		},
+		{
+			"class": null,
+			"type": "4.3",
+			"slot": 5,
+			"icon": "inv_chest_chain_04"
+		},
+		{
+			"class": null,
+			"type": "4.3",
+			"slot": 9,
+			"icon": "inv_bracer_03"
+		},
+		{
+			"class": null,
+			"type": "4.3",
+			"slot": 6,
+			"icon": "inv_belt_18"
+		},
+		{
+			"class": null,
+			"type": "4.4",
+			"slot": 1,
+			"icon": "inv_helmet_25"
+		},
+		{
+			"class": null,
+			"type": "4.4",
+			"slot": 3,
+			"icon": "inv_shoulder_20"
+		},
+		{
+			"class": null,
+			"type": "4.4",
+			"slot": 5,
+			"icon": "inv_chest_plate04"
+		},
+		{
+			"class": null,
+			"type": "4.4",
+			"slot": 9,
+			"icon": "inv_bracer_17"
+		},
+		{
+			"class": null,
+			"type": "4.4",
+			"slot": 6,
+			"icon": "inv_belt_27"
+		},
+		{
+			"class": null,
+			"type": "4.4",
+			"slot": 8,
+			"icon": "inv_boots_plate_08"
+		},
+		{
+			"class": null,
+			"type": "4.-3",
+			"slot": 2,
+			"icon": "inv_jewelry_necklace_02"
+		},
+		{
+			"class": null,
+			"type": "4.-4",
+			"slot": 12,
+			"icon": "inv_jewelry_amulet_07"
+		},
+		{
+			"class": null,
+			"type": "4.-2",
+			"slot": 11,
+			"icon": "inv_jewelry_ring_05"
+		},
+		{
+			"class": null,
+			"type": "2.5",
+			"slot": 17,
+			"icon": "inv_hammer_09"
+		},
+		{
+			"class": null,
+			"type": "2.6",
+			"slot": 17,
+			"icon": "inv_spear_05"
+		},
+		{
+			"class": null,
+			"type": "2.10",
+			"slot": 17,
+			"icon": "inv_staff_13"
+		},
+		{
+			"class": null,
+			"type": "2.0",
+			"slot": null,
+			"icon": "inv_axe_23"
+		},
+		{
+			"class": null,
+			"type": "4.6",
+			"slot": 14,
+			"icon": "inv_shield_06"
+		},
+		{
+			"class": null,
+			"type": "4.-5",
+			"slot": 23,
+			"icon": "inv_misc_orb_01"
+		},
+		{
+			"class": null,
+			"type": "2.19",
+			"slot": 15,
+			"icon": "inv_wand_02"
+		},
+		{
+			"class": null,
+			"type": "1.1",
+			"slot": 18,
+			"icon": "inv_misc_bag_soulbag"
+		},
+		{
+			"class": null,
+			"type": "11.2",
+			"slot": 18,
+			"icon": "inv_misc_quiver_09"
+		},
+		{
+			"class": null,
+			"type": "2.15",
+			"slot": null,
+			"icon": "inv_weapon_shortblade_14"
+		},
+		{
+			"class": null,
+			"type": "2.13",
+			"slot": null,
+			"icon": "inv_misc_monsterclaw_04"
+		},
+		{
+			"class": null,
+			"type": "2.2",
+			"slot": 15,
+			"icon": "inv_weapon_bow_01"
+		},
+		{
+			"class": null,
+			"type": "1.0",
+			"slot": 18,
+			"icon": "inv_misc_bag_09"
+		},
+		{
+			"class": 1,
+			"type": "2.1",
+			"slot": 17,
+			"icon": "inv_axe_12"
+		},
+		{
+			"class": 1,
+			"type": "2.0,2.4,2.7,2.13,2.15",
+			"slot": null,
+			"icon": "inv_sword_27"
+		},
+		{
+			"class": 2,
+			"type": "2.1,2.5,2.6,2.8",
+			"slot": 17,
+			"icon": "inv_sword_41"
+		},
+		{
+			"class": 2,
+			"type": "2.0,2.4,2.7",
+			"slot": null,
+			"icon": "inv_sword_27"
+		},
+		{
+			"class": 3,
+			"type": "2.1,2.6,2.8,2.10",
+			"slot": 17,
+			"icon": "inv_staff_21"
+		},
+		{
+			"class": 3,
+			"type": "2.10",
+			"slot": 17,
+			"icon": "inv_staff_21"
+		},
+		{
+			"class": 5,
+			"type": "2.4",
+			"slot": null,
+			"icon": "inv_hammer_02"
+		},
+		{
+			"class": 5,
+			"type": "2.15",
+			"slot": null,
+			"icon": "inv_weapon_shortblade_07"
+		},
+		{
+			"class": 8,
+			"type": "2.7",
+			"slot": null,
+			"icon": "inv_weapon_shortblade_22"
+		},
+		{
+			"class": 8,
+			"type": "2.15",
+			"slot": null,
+			"icon": "inv_weapon_shortblade_07"
+		},
+		{
+			"class": 8,
+			"type": "2.7,2.15",
+			"slot": null,
+			"icon": "inv_weapon_shortblade_07"
+		},
+		{
+			"class": 9,
+			"type": "2.7",
+			"slot": null,
+			"icon": "inv_weapon_shortblade_22"
+		},
+		{
+			"class": 9,
+			"type": "2.15",
+			"slot": null,
+			"icon": "inv_weapon_shortblade_07"
+		},
+		{
+			"class": 9,
+			"type": "2.7,2.15",
+			"slot": null,
+			"icon": "inv_weapon_shortblade_07"
+		},
+		{
+			"class": 11,
+			"type": "2.15",
+			"slot": null,
+			"icon": "inv_weapon_shortblade_07"
+		},
+		{
+			"class": 5,
+			"type": "2.10",
+			"slot": 17,
+			"icon": "inv_staff_30"
+		}
+	],
+	"itemQualities": {
+		"0": "贫乏",
+		"1": "普通",
+		"2": "罕见",
+		"3": "稀有",
+		"4": "史诗",
+		"5": "传奇",
+		"6": "神器"
+	},
+	"slotsHasDifferentArmorTypes": [
+		1,
+		3,
+		5,
+		6,
+		7,
+		8,
+		9,
+		10
+	],
+	"npcTypes": {
+		"1": "野兽",
+		"2": "龙类",
+		"3": "恶魔",
+		"4": "元素",
+		"5": "巨人",
+		"6": "亡灵",
+		"7": "人型",
+		"8": "小生物",
+		"9": "机械",
+		"10": "未分类",
+		"15": "缩略语"
+	},
+	"professionTypes": {
+		"129": {
+			"name": "急救",
+			"icon": "spell_holy_sealofsacrifice"
+		},
+		"164": {
+			"name": "锻造",
+			"icon": "trade_blacksmithing"
+		},
+		"165": {
+			"name": "制皮",
+			"icon": "inv_misc_armorkit_17"
+		},
+		"171": {
+			"name": "炼金术",
+			"icon": "trade_alchemy"
+		},
+		"182": {
+			"name": "草药学",
+			"icon": "spell_nature_naturetouchgrow"
+		},
+		"185": {
+			"name": "烹饪",
+			"icon": "inv_misc_food_15"
+		},
+		"186": {
+			"name": "采矿",
+			"icon": "trade_mining"
+		},
+		"197": {
+			"name": "裁缝",
+			"icon": "trade_tailoring"
+		},
+		"202": {
+			"name": "工程学",
+			"icon": "trade_engineering"
+		},
+		"333": {
+			"name": "附魔",
+			"icon": "trade_engraving"
+		},
+		"356": {
+			"name": "钓鱼",
+			"icon": "trade_fishing"
+		},
+		"393": {
+			"name": "剥皮",
+			"icon": "inv_misc_pelt_wolf_01"
+		}
+	}
+}
