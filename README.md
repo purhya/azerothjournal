@@ -1,3 +1,5 @@
 # azerothjournal
 
+[Preview](https://purhya.github.io/azerothjournal/)
+
 艾泽拉斯冒险指南的早期版本, 仅支持中文, 仅有一个粗糙的装备列表.
